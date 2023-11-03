@@ -1,0 +1,10 @@
+.profile-picture {
+    margin-top: 100px;
+    height: 250px;
+    width: 250px;
+    margin-left: 175px;
+    border-radius: 122px;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+}
